@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Hussein Kadweka
+## Am a Fullstack Developer
 
 <!--
 **The-Kadweka/The-Kadweka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
